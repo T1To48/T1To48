@@ -1,10 +1,21 @@
 # 🚀 About Me
 
-Hi there 👋! I’m Taufiq Zayyad, a passionate Full Stack Developer and Practical Software Engineering student at the Technion (GPA: 95.8).
+Hi there 👋! 
+I’m Taufiq Zayyad, 
+<br>
+a Passionate ***Full Stack Developer*** and Practical Software Engineering Student at the Technion (GPA: 95.8).
 
 - **_Specialized_** in building scalable, end-to-end web applications using the MERN stack and Python (Flask).
 - **_Strong_** Background in bridging the gap between complex backend logic and intuitive frontend design.
 - **_experience_** ranges from developing real-time communication systems to deploying production-ready applications.
+
+🌟 Key Highlights
+- 🎓 Technion Student: Maintaining a 95.8 average in Software Engineering.
+- 🏆 Harvard CS50X Alum: Completed the rigorous Introduction to Computer Science.
+- 🧩 Critical Thinker & Problem Solver: Highly skilled at solving complex technical problems.
+- 🌱 Lifelong Learner: Dedicated to self-improvement through independent Learning.
+- 🤝 Knowledge Sharer: Collabrating and sharing Knowledge with others is how we thrive as digital community.
+- 🌍 Multilingual: Native or mother-tongue proficiency in Arabic, Hebrew, and English, with high-level German skills.
 
 ## 🛠️ Technical Toolbox
 

@@ -17,6 +17,11 @@ a Passionate ***Full Stack Developer*** and Practical Software Engineering Stude
 - 🤝 Knowledge Sharer: Collabrating and sharing Knowledge with others is how we thrive as digital community.
 - 🌍 Multilingual: Native or mother-tongue proficiency in Arabic, Hebrew, and English, with high-level German skills.
 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T1To48&layout=compact&theme=tokyonight" />
+</p>
+
 ## 🛠️ Technical Toolbox
 
 <div>
@@ -28,7 +33,7 @@ Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=&logoColor=white)
 <div>
 Frontend:
 </div>
@@ -38,6 +43,7 @@ Frontend:
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![MaterialUI](https://img.shields.io/badge/Material%20UI-%23FFFFFF?style=for-the-badge&logo=MUI&logoColor=#007FFF)
+![Avalonia](https://img.shields.io/badge/Avalonia_UI-%230078D4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 
 <div>
 Backend:
